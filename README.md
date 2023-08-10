@@ -7,6 +7,6 @@ N/A
 ## Usage
 Clone this repo into your host machine, or just visit it [here](https://benrodriguezmoran.github.io/Horiseon-SEO-Landingpage/index.html)
 ## Credits
-MSU Full-stack Bootcamp
+MSU Full-stack Bootcamp coursework
 ## License
 Please refer to the LICENSE in the repo

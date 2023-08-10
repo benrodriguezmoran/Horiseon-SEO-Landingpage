@@ -4,6 +4,25 @@
     padding: 0;
     margin: 0;
 }
+/* Front span image on first div in body */
+.front-img {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* First and third images in section float left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* Second image in section floats right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 /* background color */
 body {
     background-color: #d9dcd6;
@@ -49,25 +68,6 @@ header nav ul li {
 /* Navigation list remove bullet points */
 header nav ul {
     list-style-type: none;
-}
-/* Front span image on first div in body */
-.front-img {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-/* First and third images in section float left */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-/* Second image floats right */
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 /* Section content set width 3/4, display inline to room for aside, and set left margin */
 section {

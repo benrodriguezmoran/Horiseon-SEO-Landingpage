@@ -1,4 +1,4 @@
-# Horiseon SEO and Web Marketing Landing Page
+# Horiseon SEO and Web Marketing Solutions Landing Page
 ![Horiseon SEO Screenshot](./Resources/screenshot.png)
 ## Description
 This is a landing page for Horiseon SEO and Marketing, it is accessability compliant, semantic, includes a commented CSS file, and minimal class usage makes future pages easier to style.
